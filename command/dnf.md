@@ -44,7 +44,7 @@ yum install dnf
 用处：该命令用于查看安装在您系统中的 DNF 包管理器的版本
 
 ```shell
-dnf –version
+dnf –-version
 ```
 
 !Check-DNF-Version
